@@ -1,25 +1,26 @@
-# Remaining team actions
+# Submission checklist
 
-The data and finalized schedule are preserved. The observer confirmed all 36 windows usable; no re-review or changed count fields are required by the analysis workflow.
+All 36 windows are included after the observer confirmed their visibility during collection. The raw exports and finalized sampling schedule are preserved.
 
 ## Aarya
 
-- Read the final report and verify that its description of your counting matches what you did.
-- Review the prepared audit pull request and the code you will present; make any genuine corrections needed. A pull request prepared on your account is not evidence of a manual contribution you have not made.
-- Review Tanya’s actual pull request after she makes her contribution. Submit a real review and merge only after issues are resolved.
+- [ ] Read the final report and check that the collection description matches what you did.
+- [ ] Make and explain your own contribution through a branch and pull request. The prepared audit branch is a starting point for review.
+- [ ] Review Tanya’s pull request and resolve comments before merging.
 
 ## Tanya
 
-- Accept the invitation to `AaryaDeshpande/aipi510-module2-abbeyroad-sampling` using the `Tanya-duke` account.
-- Make a real contribution on your own branch. Useful work includes checking the analysis assumptions, improving a substantive explanation in the narration, or adding a test you understand.
-- Open your own pull request, explain the change, and request Aarya’s review. Review the prepared audit PR only after inspecting it; do not approve automatically.
+- [ ] Accept the invitation to `AaryaDeshpande/aipi510-module2-abbeyroad-sampling` using `Tanya-duke`.
+- [ ] Make a substantive contribution on your own branch, such as checking an analysis assumption, improving an explanation, or adding a test.
+- [ ] Open a pull request and have Aarya review it. Review Aarya’s work after reading the changes.
 
 ## Together
 
-- Confirm the final author names and proposed speaker split. No contribution roles beyond the known collection work have been invented.
-- Rehearse the eight-slide deck and record an actual presentation under eight minutes. The script target is 7:25, not a measured video duration.
-- Upload the real video to a service permitted by the class, set suitable viewing access, and test its link while signed out.
-- Check the public report and repository links. Add the real video URL to `THREE_SUBMISSION_LINKS.txt`.
-- Submit the required links to Canvas yourselves. Nothing in this workflow submits to Canvas.
+- [ ] Confirm author names and the proposed speaking split.
+- [ ] Rehearse the eight-slide deck. The script targets 7:25; time the actual recording.
+- [ ] Record a presentation under eight minutes, upload it to an approved service, and test the viewing link while signed out.
+- [ ] Add the real video URL to `THREE_SUBMISSION_LINKS.txt`.
+- [ ] Check the public report and repository links.
+- [ ] Submit the required links to Canvas yourselves.
 
-A recorded video, Tanya-authored PR, student approvals and successful final Canvas submission remain unverified until the real actions occur.
+The video, student contributions and reviews, and Canvas submission remain to be completed.
