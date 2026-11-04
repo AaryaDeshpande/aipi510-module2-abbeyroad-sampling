@@ -1,0 +1,61 @@
+{
+  "generation_method": "Built-in image_gen tool",
+  "intended_use": "AI-generated backgrounds on slides 2\u20137 and illustrative quiet/busy street scenes on slide 2. Actual counts and timelines are separate native evidence objects.",
+  "jobs": [
+    {
+      "id": "slide_02_bursts_AI",
+      "slide": 2,
+      "option": "standalone",
+      "slide_title": "One window shows how estimates can differ",
+      "prompt": "Use case: photorealistic-natural. Asset: optional illustrative image for a Duke statistics class slide. Generate a new fictional London-inspired scene. Do not reproduce an existing photograph or the actual experiment footage. No readable text, digits, logos, watermarks, charts, captions, interfaces or timestamp overlays. No identifiable faces. Natural anatomy, plausible road geometry, professional editorial photography. This is illustration only, never evidence of observed counts.\nPrimary request: A candid editorial street photograph of a burst of pedestrians crossing a traditional London zebra crossing together, with a noticeably quiet stretch of road extending behind them. A leafy residential London street, brick buildings, overcast daylight, authentic British road markings, natural walking poses. Capture a transient cluster, without implying any exact count. Eye-level wide documentary composition, no identifiable close-up faces.\nLandscape 3:2 composition, high resolution, realistic color and texture. Keep the main subject readable when used as a modest inset in a blue-and-white presentation. Generate one individual image, not a collage."
+    },
+    {
+      "id": "slide_02_bursts_background_AI",
+      "slide": 2,
+      "option": "background",
+      "slide_title": "One window shows how estimates can differ",
+      "prompt": "Use case: photorealistic-natural. Asset: optional illustrative image for a Duke statistics class slide. Generate a new fictional London-inspired scene. Do not reproduce an existing photograph or the actual experiment footage. No readable text, digits, logos, watermarks, charts, captions, interfaces or timestamp overlays. No identifiable faces. Natural anatomy, plausible road geometry, professional editorial photography. This is illustration only, never evidence of observed counts.\nAsset: one unique 16:9 PowerPoint background, high resolution. A very soft, low-contrast London zebra crossing visible only along the lower-right edge, with a small distant pedestrian group at that edge to suggest bursty arrivals. Warm natural autumn light.\nComposition: leave the top 25%, entire left 70%, and central plotting area nearly plain off-white (#FAFCFD), with an extremely smooth photographic fade. Keep scene detail in the outer lower/right margins and low-contrast enough for dark navy text and charts to remain legible. Muted blue-gray, soft white and restrained teal palette, not saturated. Realistic photographic textures, not vector art or a mock slide. No words, charts, outlines, boxes or decorative graphics. Generate one individual full-bleed background, not a collage."
+    },
+    {
+      "id": "slide_03_observation_background_AI",
+      "slide": 3,
+      "option": "background",
+      "slide_title": "Two sampling methods",
+      "prompt": "Use case: photorealistic-natural. Asset: optional illustrative image for a Duke statistics class slide. Generate a new fictional London-inspired scene. Do not reproduce an existing photograph or the actual experiment footage. No readable text, digits, logos, watermarks, charts, captions, interfaces or timestamp overlays. No identifiable faces. Natural anatomy, plausible road geometry, professional editorial photography. This is illustration only, never evidence of observed counts.\nAsset: one unique 16:9 PowerPoint background, high resolution. A quiet close view of genuine zebra road stripes receding in perspective along the bottom edge and far-right edge. Cool daylight, a hint of pavement texture, no equipment or people in the center.\nComposition: leave the top 25%, entire left 70%, and central plotting area nearly plain off-white (#FAFCFD), with an extremely smooth photographic fade. Keep scene detail in the outer lower/right margins and low-contrast enough for dark navy text and charts to remain legible. Muted blue-gray, soft white and restrained teal palette, not saturated. Realistic photographic textures, not vector art or a mock slide. No words, charts, outlines, boxes or decorative graphics. Generate one individual full-bleed background, not a collage."
+    },
+    {
+      "id": "slide_04_study_setting_background_AI",
+      "slide": 4,
+      "option": "background",
+      "slide_title": "36 windows sampled before counting",
+      "prompt": "Use case: photorealistic-natural. Asset: optional illustrative image for a Duke statistics class slide. Generate a new fictional London-inspired scene. Do not reproduce an existing photograph or the actual experiment footage. No readable text, digits, logos, watermarks, charts, captions, interfaces or timestamp overlays. No identifiable faces. Natural anatomy, plausible road geometry, professional editorial photography. This is illustration only, never evidence of observed counts.\nAsset: one unique 16:9 PowerPoint background, high resolution. A high-angle fragment of a leafy London street corner and zebra crossing confined to the bottom-right quarter, with a softly lit brick-building edge at the far right. Gentle autumn daylight.\nComposition: leave the top 25%, entire left 70%, and central plotting area nearly plain off-white (#FAFCFD), with an extremely smooth photographic fade. Keep scene detail in the outer lower/right margins and low-contrast enough for dark navy text and charts to remain legible. Muted blue-gray, soft white and restrained teal palette, not saturated. Realistic photographic textures, not vector art or a mock slide. No words, charts, outlines, boxes or decorative graphics. Generate one individual full-bleed background, not a collage."
+    },
+    {
+      "id": "slide_05_equal_time_background_AI",
+      "slide": 5,
+      "option": "background",
+      "slide_title": "Average absolute estimation error",
+      "prompt": "Use case: photorealistic-natural. Asset: optional illustrative image for a Duke statistics class slide. Generate a new fictional London-inspired scene. Do not reproduce an existing photograph or the actual experiment footage. No readable text, digits, logos, watermarks, charts, captions, interfaces or timestamp overlays. No identifiable faces. Natural anatomy, plausible road geometry, professional editorial photography. This is illustration only, never evidence of observed counts.\nAsset: one unique 16:9 PowerPoint background, high resolution. A balanced close-up of two worn white zebra stripes and pale gray asphalt confined to the bottom border, with subtle soft shadows. Bright diffuse midday light, a hint of desaturated teal in the distant foliage.\nComposition: leave the top 25%, entire left 70%, and central plotting area nearly plain off-white (#FAFCFD), with an extremely smooth photographic fade. Keep scene detail in the outer lower/right margins and low-contrast enough for dark navy text and charts to remain legible. Muted blue-gray, soft white and restrained teal palette, not saturated. Realistic photographic textures, not vector art or a mock slide. No words, charts, outlines, boxes or decorative graphics. Generate one individual full-bleed background, not a collage."
+    },
+    {
+      "id": "slide_06_uncertainty_background_AI",
+      "slide": 6,
+      "option": "background",
+      "slide_title": "The mean difference remains uncertain",
+      "prompt": "Use case: photorealistic-natural. Asset: optional illustrative image for a Duke statistics class slide. Generate a new fictional London-inspired scene. Do not reproduce an existing photograph or the actual experiment footage. No readable text, digits, logos, watermarks, charts, captions, interfaces or timestamp overlays. No identifiable faces. Natural anatomy, plausible road geometry, professional editorial photography. This is illustration only, never evidence of observed counts.\nAsset: one unique 16:9 PowerPoint background, high resolution. A hazy, out-of-focus London crossing and soft tree silhouettes confined to the lower-right corner, fading gradually into open pale space. Restrained cool blue-gray morning mood.\nComposition: leave the top 25%, entire left 70%, and central plotting area nearly plain off-white (#FAFCFD), with an extremely smooth photographic fade. Keep scene detail in the outer lower/right margins and low-contrast enough for dark navy text and charts to remain legible. Muted blue-gray, soft white and restrained teal palette, not saturated. Realistic photographic textures, not vector art or a mock slide. No words, charts, outlines, boxes or decorative graphics. Generate one individual full-bleed background, not a collage."
+    },
+    {
+      "id": "slide_07_limitations_background_AI",
+      "slide": 7,
+      "option": "background",
+      "slide_title": "Limitations",
+      "prompt": "Use case: photorealistic-natural. Asset: optional illustrative image for a Duke statistics class slide. Generate a new fictional London-inspired scene. Do not reproduce an existing photograph or the actual experiment footage. No readable text, digits, logos, watermarks, charts, captions, interfaces or timestamp overlays. No identifiable faces. Natural anatomy, plausible road geometry, professional editorial photography. This is illustration only, never evidence of observed counts.\nAsset: one unique 16:9 PowerPoint background, high resolution. A softly blurred red London bus edge, a few distant pedestrian silhouettes and zebra markings confined to the lower-right and rightmost edge. Neutral afternoon light and very low contrast.\nComposition: leave the top 25%, entire left 70%, and central plotting area nearly plain off-white (#FAFCFD), with an extremely smooth photographic fade. Keep scene detail in the outer lower/right margins and low-contrast enough for dark navy text and charts to remain legible. Muted blue-gray, soft white and restrained teal palette, not saturated. Realistic photographic textures, not vector art or a mock slide. No words, charts, outlines, boxes or decorative graphics. Generate one individual full-bleed background, not a collage."
+    },
+    {
+      "id": "slide_02_quiet_AI",
+      "option": "edit",
+      "reference": "slide_02_busy_AI.png",
+      "prompt": "Edit this AI-generated fictional street photograph for a paired educational illustration. Preserve exactly the same London-inspired residential street, camera position, perspective, road markings, brick buildings, trees, autumn daylight, colors and aspect ratio. Change only pedestrian activity: remove the large crossing group and leave just one distant adult pedestrian walking across, creating a quiet moment. Natural anatomy, realistic shadows and pavement, no traces of removed figures. Do not add a label, text, numbers, logo or watermark. This is a fictional quiet-moment illustration to pair with the original busy-moment illustration. It must not imply actual footage or exact observed pedestrian counts."
+    }
+  ]
+}

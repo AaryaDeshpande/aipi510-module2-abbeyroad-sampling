@@ -73,7 +73,7 @@ At α = 0.05 and hypothetical paired effect d_z = 0.50, 36 independent pairs giv
 
 ## Regenerate document files
 
-The scientific analysis above is the portable reproduction path. To rebuild the report and narration, install `requirements-documents.txt` and run `scripts/build_report.py` and `scripts/build_narration.py`; PDF rendering additionally needs LibreOffice. The presentation and workbook edit scripts use the Artifact Tool JavaScript runtime, available in the authoring environment, with preserved source templates under `reproducibility/`. Final editable Office files are supplied for use without that runtime. Original supplied builders are retained in that directory as historical source.
+The scientific analysis above is the portable reproduction path. To rebuild the report and narration, install `requirements-documents.txt` and run `scripts/build_report.py` and `scripts/build_narration.py`; PDF rendering additionally needs LibreOffice. The presentation and workbook edit scripts use the Artifact Tool JavaScript runtime, available in the authoring environment, with preserved source templates under `reproducibility/`. Final editable Office files are supplied for use without that runtime. To rebuild the slide 2 evidence, run `python scripts/build_slide2_evidence.py` before the presentation builder. Its timelines use the actual recording 13 event log; the eight AI raster assets under `slides/assets/ai/` are labeled illustrations, with their prompts and hashes included. Original supplied builders are retained in that directory as historical source.
 
 ## Collaboration
 
