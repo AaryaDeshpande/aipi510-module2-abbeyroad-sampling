@@ -3,6 +3,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {FileBlob,PresentationFile} from '@oai/artifact-tool';
+import {enhanceEvidenceSlides} from './presentation_visuals.mjs';
 const root=path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const p=await PresentationFile.importPptx(await FileBlob.load(path.join(root,'reproducibility/source_presentation.pptx')));
 const info=await p.inspect({kind:'textbox,shape',maxChars:80000});
@@ -52,7 +53,8 @@ const scripts=JSON.parse(await fs.readFile(path.join(root,'slides/narration.json
 for(let i=0;i<p.slides.items.length;i++){
  const e=scripts[i];p.slides.items[i].speakerNotes.text=`${e.speaker} | target ${e.target_seconds} seconds\n\n${e.narration}\n\nSources: data/raw/experiment_protocol.json; data/raw/crossing_events.csv; data/processed/analysis_summary.json; data/review/observer_confirmation.json. Official footage viewed only at https://www.abbeyroad.com/crossing. Statistical assumptions: https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.permutation_test.html . Speaker assignments are proposed; rehearse before recording.`;
 }
-cover.speakerNotes.text+='\n\nTitle photograph: user-supplied image from Abbey Road Studios, Celebrating 50 Years of the Iconic Crossing, June 18, 2019. https://www.abbeyroad.com/news/celebrating-50-years-of-the-iconic-crossing-2567 . Historical location context only, not footage from the November 3, 2026 experiment. No AI-generated images.';
+cover.speakerNotes.text+='\n\nTitle photograph: user-supplied image from Abbey Road Studios, Celebrating 50 Years of the Iconic Crossing, June 18, 2019. https://www.abbeyroad.com/news/celebrating-50-years-of-the-iconic-crossing-2567 . Historical location context only, not footage from the November 3, 2026 experiment. This title image is a real source photograph.';
+await enhanceEvidenceSlides(p,root);
 const qa=path.join(root,'.cache/deck');await fs.mkdir(qa,{recursive:true});
 for(let i=0;i<p.slides.items.length;i++){const b=await p.slides.items[i].export({format:'png',scale:1});await fs.writeFile(path.join(qa,`slide-${i+1}.png`),new Uint8Array(await b.arrayBuffer()));}
 await (await PresentationFile.exportPptx(p)).save(path.join(qa,'candidate.pptx'));
