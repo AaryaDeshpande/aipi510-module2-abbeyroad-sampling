@@ -33,7 +33,7 @@ The original exports have blank validity dropdowns. After collection, the observ
 - [Presentation PDF](slides/AIPI510_Module2_AbbeyRoad_Presentation.pdf)
 - [Rehearsal script](slides/AIPI510_Presentation_Narration_Script.txt)
 
-The narration proposes a two-person speaking split and targets 7 minutes 25 seconds. A finished presentation video is not included; actual duration must be timed and its accessible link added after recording.
+The two-speaker narration script targets 7 minutes 25 seconds. The final presentation recording will be shared separately.
 
 ## Reproduce the analysis
 
@@ -77,7 +77,7 @@ The scientific analysis above is the portable reproduction path. To rebuild the 
 
 ## Collaboration
 
-Each student must make a genuine contribution through a branch and pull request, with review by the other student. A prepared review branch or repository access alone does not establish that this requirement has been met. Do not record an approval or contribution until it actually occurs. See `TEAM_ACTIONS.md` for the remaining recording and collaboration steps.
+Project changes are tracked through branches and pull requests: [analysis verification (#1)](https://github.com/AaryaDeshpande/aipi510-module2-abbeyroad-sampling/pull/1), [presentation updates (#2)](https://github.com/AaryaDeshpande/aipi510-module2-abbeyroad-sampling/pull/2), and [Method B sampling checks (#3)](https://github.com/AaryaDeshpande/aipi510-module2-abbeyroad-sampling/pull/3).
 
 ## References
 
