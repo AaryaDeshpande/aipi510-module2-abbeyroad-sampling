@@ -25,6 +25,8 @@ The original exports have blank validity dropdowns. After collection, the observ
 
 ## Report and presentation
 
+[Public report](https://aaryadeshpande.github.io/aipi510-module2-abbeyroad-sampling/) · [Repository](https://github.com/AaryaDeshpande/aipi510-module2-abbeyroad-sampling)
+
 - [Written report](docs/AIPI510_Module2_Statistical_Report.pdf)
 - [Editable report](docs/AIPI510_Module2_Statistical_Report.docx)
 - [Eight-slide presentation](slides/AIPI510_Module2_AbbeyRoad_Presentation.pptx)
