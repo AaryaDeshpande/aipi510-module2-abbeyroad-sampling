@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.mp4
+*.mov
+*.m3u8
+*.webm
+private_review/
+*.log
+.cache/
+collection_extension/firefox-helper-config.js
+collection_extension/helper/.local-helper.json
+node_modules/
+*.inspect.ndjson
+
+node_modules

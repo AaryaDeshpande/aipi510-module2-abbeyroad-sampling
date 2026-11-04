@@ -1,0 +1,1266 @@
+{
+  "metadata_sha256": "22902284b5939d5e0d4c01a2d9811d37d8f64dc3388e2d7c9eb3b9a3824175bb",
+  "source": "Collection export metadata; this file omits the private live folder and full recovery state.",
+  "clips": [
+    {
+      "clip_id": "01",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 28800,
+        "hour": 8,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/0800.mp4/playlist.m3u8",
+        "mediaStart": 300,
+        "mediaEnd": 600,
+        "duration": 3600.247000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-03T23:42:12.554Z",
+        "actual_media_time": 600.003937,
+        "requested_media_end": 600,
+        "overshoot_seconds": 0.003936999999950785,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-03T23:42:12.554Z"
+    },
+    {
+      "clip_id": "02",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 28800,
+        "hour": 8,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/0800.mp4/playlist.m3u8",
+        "mediaStart": 600,
+        "mediaEnd": 900,
+        "duration": 3600.247000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-03T23:45:38.892Z",
+        "actual_media_time": 900.028958,
+        "requested_media_end": 900,
+        "overshoot_seconds": 0.028957999999988715,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-03T23:45:38.892Z"
+    },
+    {
+      "clip_id": "03",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 28800,
+        "hour": 8,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/0800.mp4/playlist.m3u8",
+        "mediaStart": 900,
+        "mediaEnd": 1200,
+        "duration": 3600.247000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-03T23:50:03.678Z",
+        "actual_media_time": 1200.030458,
+        "requested_media_end": 1200,
+        "overshoot_seconds": 0.030457999999953245,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-03T23:50:03.678Z"
+    },
+    {
+      "clip_id": "04",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 28800,
+        "hour": 8,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/0800.mp4/playlist.m3u8",
+        "mediaStart": 2700,
+        "mediaEnd": 3000,
+        "duration": 3600.247000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-03T23:51:23.407Z",
+        "actual_media_time": 3000.015125,
+        "requested_media_end": 3000,
+        "overshoot_seconds": 0.015124999999898137,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-03T23:51:23.407Z"
+    },
+    {
+      "clip_id": "05",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 28800,
+        "hour": 8,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/0800.mp4/playlist.m3u8",
+        "mediaStart": 3000,
+        "mediaEnd": 3300,
+        "duration": 3600.247000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-03T23:52:35.365Z",
+        "actual_media_time": 3300.016833,
+        "requested_media_end": 3300,
+        "overshoot_seconds": 0.016833000000133325,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-03T23:52:35.365Z"
+    },
+    {
+      "clip_id": "06",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 32760,
+        "hour": 9,
+        "minute": 6,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/0906.mp4/playlist.m3u8",
+        "mediaStart": 540,
+        "mediaEnd": 840,
+        "duration": 3252.65400000001,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-03T23:53:59.085Z",
+        "actual_media_time": 840.005479,
+        "requested_media_end": 840,
+        "overshoot_seconds": 0.005479000000036649,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-03T23:53:59.085Z"
+    },
+    {
+      "clip_id": "07",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 32760,
+        "hour": 9,
+        "minute": 6,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/0906.mp4/playlist.m3u8",
+        "mediaStart": 840,
+        "mediaEnd": 1140,
+        "duration": 3252.65400000001,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-03T23:55:09.602Z",
+        "actual_media_time": 1140.007291,
+        "requested_media_end": 1140,
+        "overshoot_seconds": 0.0072909999998955755,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-03T23:55:09.602Z"
+    },
+    {
+      "clip_id": "08",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 32760,
+        "hour": 9,
+        "minute": 6,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/0906.mp4/playlist.m3u8",
+        "mediaStart": 2040,
+        "mediaEnd": 2340,
+        "duration": 3252.65400000001,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-03T23:57:37.685Z",
+        "actual_media_time": 2340.198375,
+        "requested_media_end": 2340,
+        "overshoot_seconds": 0.1983749999999418,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-03T23:57:37.685Z"
+    },
+    {
+      "clip_id": "09",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 32760,
+        "hour": 9,
+        "minute": 6,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/0906.mp4/playlist.m3u8",
+        "mediaStart": 2340,
+        "mediaEnd": 2640,
+        "duration": 3252.65400000001,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:00:56.388Z",
+        "actual_media_time": 2640.03625,
+        "requested_media_end": 2640,
+        "overshoot_seconds": 0.03625000000010914,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:00:56.388Z"
+    },
+    {
+      "clip_id": "10",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 32760,
+        "hour": 9,
+        "minute": 6,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/0906.mp4/playlist.m3u8",
+        "mediaStart": 2940,
+        "mediaEnd": 3240,
+        "duration": 3252.65400000001,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:02:49.099Z",
+        "actual_media_time": 3240.06325,
+        "requested_media_end": 3240,
+        "overshoot_seconds": 0.0632500000001528,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:02:49.099Z"
+    },
+    {
+      "clip_id": "11",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 36000,
+        "hour": 10,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1000.mp4/playlist.m3u8",
+        "mediaStart": 900,
+        "mediaEnd": 1200,
+        "duration": 3600.196000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:05:08.400Z",
+        "actual_media_time": 1200.056541,
+        "requested_media_end": 1200,
+        "overshoot_seconds": 0.05654099999992468,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:05:08.400Z"
+    },
+    {
+      "clip_id": "12",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 36000,
+        "hour": 10,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1000.mp4/playlist.m3u8",
+        "mediaStart": 1200,
+        "mediaEnd": 1500,
+        "duration": 3600.196000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:07:39.088Z",
+        "actual_media_time": 1500.007708,
+        "requested_media_end": 1500,
+        "overshoot_seconds": 0.007708000000093307,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:07:39.088Z"
+    },
+    {
+      "clip_id": "13",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 36000,
+        "hour": 10,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1000.mp4/playlist.m3u8",
+        "mediaStart": 1500,
+        "mediaEnd": 1800,
+        "duration": 3600.196000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:09:39.724Z",
+        "actual_media_time": 1800.009458,
+        "requested_media_end": 1800,
+        "overshoot_seconds": 0.009457999999995081,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:09:39.724Z"
+    },
+    {
+      "clip_id": "14",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 36000,
+        "hour": 10,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1000.mp4/playlist.m3u8",
+        "mediaStart": 2700,
+        "mediaEnd": 3000,
+        "duration": 3600.196000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:11:47.942Z",
+        "actual_media_time": 3000.015187,
+        "requested_media_end": 3000,
+        "overshoot_seconds": 0.015186999999968975,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:11:47.941Z"
+    },
+    {
+      "clip_id": "15",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 36000,
+        "hour": 10,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1000.mp4/playlist.m3u8",
+        "mediaStart": 3300,
+        "mediaEnd": 3600,
+        "duration": 3600.196000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:13:37.372Z",
+        "actual_media_time": 3600.017291,
+        "requested_media_end": 3600,
+        "overshoot_seconds": 0.017291000000113854,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:13:37.371Z"
+    },
+    {
+      "clip_id": "16",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 39600,
+        "hour": 11,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1100.mp4/playlist.m3u8",
+        "mediaStart": 600,
+        "mediaEnd": 900,
+        "duration": 3599.935000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:15:01.042Z",
+        "actual_media_time": 900.003937,
+        "requested_media_end": 900,
+        "overshoot_seconds": 0.003936999999950785,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:15:01.042Z"
+    },
+    {
+      "clip_id": "17",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 39600,
+        "hour": 11,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1100.mp4/playlist.m3u8",
+        "mediaStart": 900,
+        "mediaEnd": 1200,
+        "duration": 3599.935000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:16:15.564Z",
+        "actual_media_time": 1200.075312,
+        "requested_media_end": 1200,
+        "overshoot_seconds": 0.07531199999993987,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:16:15.564Z"
+    },
+    {
+      "clip_id": "18",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 39600,
+        "hour": 11,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1100.mp4/playlist.m3u8",
+        "mediaStart": 1200,
+        "mediaEnd": 1500,
+        "duration": 3599.935000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:17:36.773Z",
+        "actual_media_time": 1500.030687,
+        "requested_media_end": 1500,
+        "overshoot_seconds": 0.03068699999994351,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:17:36.773Z"
+    },
+    {
+      "clip_id": "19",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 39600,
+        "hour": 11,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1100.mp4/playlist.m3u8",
+        "mediaStart": 1500,
+        "mediaEnd": 1800,
+        "duration": 3599.935000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:18:56.542Z",
+        "actual_media_time": 1800.078916,
+        "requested_media_end": 1800,
+        "overshoot_seconds": 0.0789159999999356,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:18:56.542Z"
+    },
+    {
+      "clip_id": "20",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 39600,
+        "hour": 11,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1100.mp4/playlist.m3u8",
+        "mediaStart": 2400,
+        "mediaEnd": 2700,
+        "duration": 3599.935000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:20:22.910Z",
+        "actual_media_time": 2700.05975,
+        "requested_media_end": 2700,
+        "overshoot_seconds": 0.0597499999998945,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:20:22.910Z"
+    },
+    {
+      "clip_id": "21",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 43200,
+        "hour": 12,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1200.mp4/playlist.m3u8",
+        "mediaStart": 300,
+        "mediaEnd": 600,
+        "duration": 3603.403000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:21:54.805Z",
+        "actual_media_time": 600.003666,
+        "requested_media_end": 600,
+        "overshoot_seconds": 0.0036659999999528736,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:21:54.805Z"
+    },
+    {
+      "clip_id": "22",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 43200,
+        "hour": 12,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1200.mp4/playlist.m3u8",
+        "mediaStart": 1200,
+        "mediaEnd": 1500,
+        "duration": 3603.403000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:23:12.282Z",
+        "actual_media_time": 1500.030812,
+        "requested_media_end": 1500,
+        "overshoot_seconds": 0.030811999999968975,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:23:12.282Z"
+    },
+    {
+      "clip_id": "23",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 43200,
+        "hour": 12,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1200.mp4/playlist.m3u8",
+        "mediaStart": 2100,
+        "mediaEnd": 2400,
+        "duration": 3603.403000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:24:32.325Z",
+        "actual_media_time": 2400.034958,
+        "requested_media_end": 2400,
+        "overshoot_seconds": 0.034958000000187894,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:24:32.325Z"
+    },
+    {
+      "clip_id": "24",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 43200,
+        "hour": 12,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1200.mp4/playlist.m3u8",
+        "mediaStart": 3300,
+        "mediaEnd": 3600,
+        "duration": 3603.403000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:25:54.961Z",
+        "actual_media_time": 3600.040562,
+        "requested_media_end": 3600,
+        "overshoot_seconds": 0.04056200000013632,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:25:54.961Z"
+    },
+    {
+      "clip_id": "25",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 46800,
+        "hour": 13,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1300.mp4/playlist.m3u8",
+        "mediaStart": 600,
+        "mediaEnd": 900,
+        "duration": 3600.099000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:27:13.583Z",
+        "actual_media_time": 900.05227,
+        "requested_media_end": 900,
+        "overshoot_seconds": 0.052270000000021355,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:27:13.583Z"
+    },
+    {
+      "clip_id": "26",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 46800,
+        "hour": 13,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1300.mp4/playlist.m3u8",
+        "mediaStart": 1200,
+        "mediaEnd": 1500,
+        "duration": 3600.099000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:28:30.747Z",
+        "actual_media_time": 1500.07725,
+        "requested_media_end": 1500,
+        "overshoot_seconds": 0.07725000000004911,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:28:30.747Z"
+    },
+    {
+      "clip_id": "27",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 46800,
+        "hour": 13,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1300.mp4/playlist.m3u8",
+        "mediaStart": 1500,
+        "mediaEnd": 1800,
+        "duration": 3600.099000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:29:40.099Z",
+        "actual_media_time": 1800.008937,
+        "requested_media_end": 1800,
+        "overshoot_seconds": 0.008937000000059925,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:29:40.099Z"
+    },
+    {
+      "clip_id": "28",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 46800,
+        "hour": 13,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1300.mp4/playlist.m3u8",
+        "mediaStart": 2700,
+        "mediaEnd": 3000,
+        "duration": 3600.099000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:30:53.331Z",
+        "actual_media_time": 3000.038395,
+        "requested_media_end": 3000,
+        "overshoot_seconds": 0.038395000000036816,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:30:53.331Z"
+    },
+    {
+      "clip_id": "29",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 50400,
+        "hour": 14,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1400.mp4/playlist.m3u8",
+        "mediaStart": 900,
+        "mediaEnd": 1200,
+        "duration": 3601.238000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:32:21.618Z",
+        "actual_media_time": 1200.028979,
+        "requested_media_end": 1200,
+        "overshoot_seconds": 0.028978999999935695,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:32:21.618Z"
+    },
+    {
+      "clip_id": "30",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 50400,
+        "hour": 14,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1400.mp4/playlist.m3u8",
+        "mediaStart": 1200,
+        "mediaEnd": 1500,
+        "duration": 3601.238000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:34:11.749Z",
+        "actual_media_time": 1500.007729,
+        "requested_media_end": 1500,
+        "overshoot_seconds": 0.0077289999999266,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:34:11.749Z"
+    },
+    {
+      "clip_id": "31",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 50400,
+        "hour": 14,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1400.mp4/playlist.m3u8",
+        "mediaStart": 2100,
+        "mediaEnd": 2400,
+        "duration": 3601.238000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:36:39.840Z",
+        "actual_media_time": 2400.012,
+        "requested_media_end": 2400,
+        "overshoot_seconds": 0.012000000000170985,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:36:39.840Z"
+    },
+    {
+      "clip_id": "32",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 50400,
+        "hour": 14,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1400.mp4/playlist.m3u8",
+        "mediaStart": 3000,
+        "mediaEnd": 3300,
+        "duration": 3601.238000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:39:36.353Z",
+        "actual_media_time": 3300.017145,
+        "requested_media_end": 3300,
+        "overshoot_seconds": 0.017144999999800348,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:39:36.353Z"
+    },
+    {
+      "clip_id": "33",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 54000,
+        "hour": 15,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1500.mp4/playlist.m3u8",
+        "mediaStart": 0,
+        "mediaEnd": 300,
+        "duration": 3599.530000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:42:07.570Z",
+        "actual_media_time": 300.025062,
+        "requested_media_end": 300,
+        "overshoot_seconds": 0.025061999999991258,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:42:07.570Z"
+    },
+    {
+      "clip_id": "34",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 54000,
+        "hour": 15,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1500.mp4/playlist.m3u8",
+        "mediaStart": 300,
+        "mediaEnd": 600,
+        "duration": 3599.530000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:43:57.789Z",
+        "actual_media_time": 600.003541,
+        "requested_media_end": 600,
+        "overshoot_seconds": 0.0035410000000410946,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:43:57.789Z"
+    },
+    {
+      "clip_id": "35",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 54000,
+        "hour": 15,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1500.mp4/playlist.m3u8",
+        "mediaStart": 1500,
+        "mediaEnd": 1800,
+        "duration": 3599.530000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:46:01.719Z",
+        "actual_media_time": 1800.032666,
+        "requested_media_end": 1800,
+        "overshoot_seconds": 0.03266600000006292,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:46:01.719Z"
+    },
+    {
+      "clip_id": "36",
+      "clock_verified": true,
+      "coverage": [
+        [
+          0,
+          300
+        ]
+      ],
+      "source": {
+        "date": "2026-11-03",
+        "startSeconds": 54000,
+        "hour": 15,
+        "minute": 0,
+        "source": "https://video2archives.earthcam.com/archives/_definst_/MP4:network/abbeyroad_archives/2026/11/03/1500.mp4/playlist.m3u8",
+        "mediaStart": 1800,
+        "mediaEnd": 2100,
+        "duration": 3599.530000000015,
+        "clockBasis": "Official archive button data-time and dated Video.js source filename; media zero is the declared archive start, not always HH:00."
+      },
+      "automatic_stop": {
+        "type": "automatic_stop",
+        "at": "2026-11-04T00:48:31.458Z",
+        "actual_media_time": 2100.03452,
+        "requested_media_end": 2100,
+        "overshoot_seconds": 0.03452000000015687,
+        "coverage": [
+          [
+            0,
+            300
+          ]
+        ]
+      },
+      "completed_at": "2026-11-04T00:48:31.458Z"
+    }
+  ]
+}

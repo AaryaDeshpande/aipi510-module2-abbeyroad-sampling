@@ -1,0 +1,308 @@
+{
+  "source_files": {
+    "experiment_protocol.json": "6dee07a2710f2021d55d62e445ae15ab6ccbebdf01c085de91e140a8462e426d",
+    "pedestrian_counts.csv": "85d174616bb7a4f76e57d989d624bd9ef9851293dca9f32b5cd17f15b9b90e05",
+    "crossing_events.csv": "78dae7cce067478f513d5a7fcf167a0e7ac12ecd0e3d3bb83d8c7bfbf0e294b1"
+  },
+  "windows": 36,
+  "active_events": 828,
+  "deleted_events": 6,
+  "recorded_complete": 36,
+  "manually_approved": 36,
+  "unreviewed": 0,
+  "all_clock_verified": true,
+  "all_export_counts_reconciled": true,
+  "primary_inference_note": "Eligibility uses the separate observer confirmation; raw dropdowns remain unchanged. This is observer assessment during collection, not an independent recount.",
+  "raw_dropdown_valid_count": 0,
+  "observer_confirmation_source": "data/review/observer_confirmation.json",
+  "by_clip": [
+    {
+      "clip_id": "01",
+      "active_events": 8,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "02",
+      "active_events": 14,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "03",
+      "active_events": 13,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "04",
+      "active_events": 11,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "05",
+      "active_events": 15,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "06",
+      "active_events": 26,
+      "deleted_events": 3,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "07",
+      "active_events": 20,
+      "deleted_events": 1,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "08",
+      "active_events": 15,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "09",
+      "active_events": 32,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "10",
+      "active_events": 25,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "11",
+      "active_events": 11,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "12",
+      "active_events": 28,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "13",
+      "active_events": 43,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "14",
+      "active_events": 29,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "15",
+      "active_events": 39,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "16",
+      "active_events": 39,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "17",
+      "active_events": 48,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "18",
+      "active_events": 34,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "19",
+      "active_events": 26,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "20",
+      "active_events": 24,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "21",
+      "active_events": 28,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "22",
+      "active_events": 11,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "23",
+      "active_events": 33,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "24",
+      "active_events": 24,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "25",
+      "active_events": 36,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "26",
+      "active_events": 22,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "27",
+      "active_events": 19,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "28",
+      "active_events": 16,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "29",
+      "active_events": 28,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "30",
+      "active_events": 13,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "31",
+      "active_events": 7,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "32",
+      "active_events": 7,
+      "deleted_events": 1,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "33",
+      "active_events": 18,
+      "deleted_events": 1,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "34",
+      "active_events": 16,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "35",
+      "active_events": 21,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    },
+    {
+      "clip_id": "36",
+      "active_events": 29,
+      "deleted_events": 0,
+      "matches_export": true,
+      "clock_verified": true,
+      "review_status": "observer_confirmed_usable"
+    }
+  ]
+}

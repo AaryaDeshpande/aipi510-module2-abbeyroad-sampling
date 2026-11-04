@@ -1,0 +1,36 @@
+{
+  "design": "two-sided one-sample t test of paired within-window absolute-error differences",
+  "alpha": 0.05,
+  "assumed_standardized_paired_effect_dz": 0.5,
+  "planned_number_of_windows": 36,
+  "nominal_power_independent_windows": 0.8306656074128482,
+  "minimum_pairs_for_80pct_under_assumptions": 33.36713118431777,
+  "provenance": "The 36-window schedule was fixed before counting. No evidence supplied that this power calculation determined the sample size before collection; this is a planning scenario, not a documented prospective justification.",
+  "cluster_scenarios": [
+    {
+      "intraclass_correlation": 0,
+      "approx_design_effect": 1.0,
+      "approx_effective_pairs": 36.0,
+      "nominal_t_power_at_effective_pairs": 0.8306656074128482
+    },
+    {
+      "intraclass_correlation": 0.1,
+      "approx_design_effect": 1.35,
+      "approx_effective_pairs": 26.666666666666664,
+      "nominal_t_power_at_effective_pairs": 0.7000337301403629
+    },
+    {
+      "intraclass_correlation": 0.3,
+      "approx_design_effect": 2.05,
+      "approx_effective_pairs": 17.5609756097561,
+      "nominal_t_power_at_effective_pairs": 0.5053430247629519
+    },
+    {
+      "intraclass_correlation": 0.5,
+      "approx_design_effect": 2.75,
+      "approx_effective_pairs": 13.090909090909092,
+      "nominal_t_power_at_effective_pairs": 0.38445650481621924
+    }
+  ],
+  "warning": "Purely theoretical. True effect unknown. 36 windows clustered in eight hourly strata on one day, so independence may fail and realized effective power may be lower. Do not claim equivalence based on a nonsignificant result."
+}

@@ -1,0 +1,38 @@
+AIPI 510 Module Project 2 presentation script
+Proposed speaker assignments for Aarya and Tanya. Rehearse and confirm before recording.
+Target about 7 minutes 25 seconds; maximum 8 minutes. Actual runtime must be timed.
+
+SLIDE 1 — Can one minute represent five?
+Aarya | target 50 seconds
+Picture the zebra crossing outside Abbey Road Studios. A group of tourists walks across together, and then the crossing stays empty for a while. Now imagine you have only one minute to count pedestrians, but your goal is to estimate the full five minutes. Do you watch one continuous minute, or spread your attention across several short moments? We tested that choice using recorded crossing footage. Our question was simple: does dividing the same one-minute observation budget change how accurate the estimate is?
+
+SLIDE 2 — One window shows how estimates can differ
+Aarya | target 52 seconds
+The practical reason is that counting every second of every camera recording takes time. A short sample is appealing, especially when the camera shows hours of activity. But pedestrians do not arrive like a metronome. In one of our actual five-minute windows, we counted forty-three crossings. A continuous sample estimated thirty-five, while the spread-out sample estimated ninety-five. That example shows what can happen when a sample catches a particularly busy moment. We needed all thirty-six windows to understand whether that was a pattern or one unusual case.
+
+SLIDE 3 — Two sampling methods
+Aarya | target 56 seconds
+Here's the comparison. Each of our windows lasts five minutes. For Method A, we randomly pick one complete minute. For Method B, we divide those five minutes into six fifty-second sections and randomly pick ten seconds from each section. That gives us sixty seconds for both methods. We multiply each sampled count by five to estimate the full window. We also counted all five minutes as our reference. The outcome we compare is the absolute difference between the estimate and that full count. The random choices were fixed before counting anyone.
+
+SLIDE 4 — 36 windows sampled before counting
+Aarya | target 60 seconds
+We selected thirty-six nonoverlapping five-minute windows across eight daytime hours on November third, using the frozen random seed. The five-minute window is our paired unit. Our null hypothesis is equal mean absolute error; the two-sided alternative is a difference. Aarya counted eight hundred twenty-eight active crossings using the nearer crossing midpoint rule. As a sample-size calibration, an assumed moderate paired effect of zero point five gives about eighty-three percent power at alpha zero point zero five, if the windows are independent. That assumption may be optimistic because nearby windows share hourly conditions. This calculation is not evidence that the original sample size was chosen through a prospective power analysis.
+
+SLIDE 5 — Average absolute estimation error
+Tanya | target 61 seconds
+Here are the main results. Method A had a mean absolute error of ten point five three pedestrians. Method B was ten point five zero. Those values are almost identical. The individual comparisons tell the same story: A was closer in fifteen windows, B was closer in fifteen, and six were ties. The spread matters. There were some windows where the distributed sample made a large error, and others where the continuous sample missed a busy stretch. Across this recorded set, neither method was consistently better. So we looked at how uncertain that tiny average difference is.
+
+SLIDE 6 — The mean difference remains uncertain
+Tanya | target 59 seconds
+We compared the absolute errors within each window as A minus B. The observed mean difference was positive zero point zero three pedestrians. Its nominal ninety-five percent confidence interval ran from negative four point four six to positive four point five one. The paired t-test gave a p-value of zero point nine nine zero, and the paired standardized effect was about zero point zero zero two. These results do not show a mean-accuracy advantage. They also do not establish equivalence, because differences of several pedestrians remain inside the interval. Hourly summaries and sign-flip sensitivity checks did not reveal a stable direction, but eight hourly groups give limited information about dependence.
+
+SLIDE 7 — Limitations
+Tanya | target 59 seconds
+The main limitations concern generalization and measurement. This was one camera on one day, with several windows in each hour. Nearby windows may be correlated. Aarya used varying playback speeds and reported clear visibility, but large groups, reaction delay and people turning back can cause counting mistakes. Full and sampled counts use the same manual event log, so their exact reconciliation validates the software calculation, not the accuracy of every human judgment. Aarya confirmed all thirty-six windows were usable, and we retained them all. There was no independent recount or second annotator, so we do not claim a measured annotation-accuracy percentage.
+
+SLIDE 8 — No clear accuracy advantage
+Tanya | target 48 seconds
+What would we recommend? With these data, we cannot justify choosing one sampling method on accuracy alone. The broader lesson is that the way observation time is spread can change the outcome for an individual window, even when the average errors look alike. A follow-up should include more days, more locations, and a second person checking some of the crossings. We would also define in advance how large an accuracy improvement would matter in practice. The main takeaway is that a short observation budget needs a tested sampling plan, and the uncertainty belongs in the decision.
+
+Recording notes
+Use the updated eight-slide deck. Speak naturally, allow time for graphs, and keep the final recording below eight minutes. The script proposes a speaker split; it is not evidence that a presentation or student contribution has already occurred.

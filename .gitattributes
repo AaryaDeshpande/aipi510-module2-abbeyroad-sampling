@@ -1,0 +1,3 @@
+# Preserve exported records and their recorded SHA-256 hashes byte for byte.
+data/raw/* -text
+collection_extension/protocol.json -text

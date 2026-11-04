@@ -1,0 +1,68 @@
+{
+  "manifest_version": 3,
+  "name": "Abbey Road Counter \u00b7 FIREFOX \u00b7 AIPI 510",
+  "version": "1.3.3",
+  "description": "Local manual crossing timestamps and counts for the fixed 36-window AIPI protocol. No video capture or upload.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_title": "Show / hide Abbey Road FIREFOX counter"
+  },
+  "background": {
+    "scripts": [
+      "protocol-data.js",
+      "core.js",
+      "workbook-template.js",
+      "workbook.js",
+      "firefox-helper-config.js",
+      "disk-store.js",
+      "background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.abbeyroad.com/crossing*",
+        "https://abbeyroad.com/crossing*"
+      ],
+      "js": [
+        "player-bridge.js"
+      ],
+      "world": "MAIN",
+      "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "https://www.abbeyroad.com/crossing*",
+        "https://abbeyroad.com/crossing*"
+      ],
+      "js": [
+        "protocol-data.js",
+        "core.js",
+        "workbook-template.js",
+        "workbook.js",
+        "counter.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "host_permissions": [
+    "https://www.abbeyroad.com/crossing*",
+    "https://abbeyroad.com/crossing*",
+    "http://127.0.0.1/*"
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "abbeyroad-counter-firefox@aipi510.local",
+      "strict_min_version": "128.0",
+      "data_collection_permissions": {
+        "required": [
+          "none"
+        ]
+      }
+    }
+  }
+}
